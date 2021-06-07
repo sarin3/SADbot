@@ -28,11 +28,16 @@ python3 bot.py
 
 Once your bot has been invited to your server and you are running the python file, there are a small variety of commands you can test out.
 
+#### Mod Commands
+
 For moderating commands like kicking, banning or warning, try
 ```
 !kick/ban/warn [User] [Reason] 
 ```
 
+![Mod Commands](Images/Admin.png)
+
+#### Admin Commands
 
 For administrative commands like adding and giving roles, try
 ```
@@ -40,11 +45,17 @@ For administrative commands like adding and giving roles, try
 !giverole [User] [Role]
 ```
 
+![Role Commands](Images/Roles.png)
+
+#### AutoBot (Assemble)
+
 For an autobot, try working with our curse filter
 ```
 !curse add/delete [Curse]
 !curse display
 ```
+
+![Curse Commands](Images/Curse.png)
 
 
 ## Contributing
